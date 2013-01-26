@@ -1,11 +1,17 @@
-This is a proof of concept. People have already suggested it's possibly not wise to broadcast your fingerprint. It's my understanding that a system relying on an image of a fingerprint based security is [broken already|http://www.schneier.com/blog/archives/2009/01/biometrics.html].
+=== About ===
 
-Things to do:
+This is not my idea, I saw it at [http://polychemy.com/products/iphone-4-finger-print-case]. However, I thought it was a shame not to actually have your own fingerprint on the case.
 
-    * find a way of reducing/connecting/removing islands
+People have already suggested it's possibly not wise to broadcast your fingerprint. It's my understanding that a system relying on an image of a fingerprint based security is [http://www.schneier.com/blog/archives/2009/01/biometrics.html|broken already].
+
+This is not a finished product, it's a proof of concept. Some work is required before you could actually print this for your model of phone.
+
+=== Things to do ===
+
     * add some real phones to the openscad file
+    * find a way of reducing/connecting/removing islands
 
-How to make a fingerprint case:
+=== Requirements ===
 
 * install/update libfprint. These instructions work for ubuntu 12.10 (from https://launchpad.net/~fingerprint/+archive/fprint)
 
