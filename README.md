@@ -1,3 +1,8 @@
+This is a proof of concept. Things to do:
+
+    * find a way of reducing/connecting/removing islands
+    * add some real phones to the openscad file
+
 * install/update libfprint. These instructions work for ubuntu 12.10 (from https://launchpad.net/~fingerprint/+archive/fprint)
 
     1. Add this PPA to your sources:
@@ -8,9 +13,11 @@
          sudo apt-get install libfprint0 fprint-demo
 
 * install potrace:
+
      sudo apt-get install potrace
 
 * use fprint-demo to make a png of your fingerprint
+
     1. sudo fprint_demo (needs root to open device)
     2. go to the 'verify' tab and verify a finger
     3. click the 'save' button to export your fingerprint as a png
