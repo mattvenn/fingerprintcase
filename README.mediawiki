@@ -1,7 +1,11 @@
-This is a proof of concept. Things to do:
+This is a proof of concept. People have already suggested it's possibly not wise to broadcast your fingerprint. It's my understanding that a system relying on an image of a fingerprint based security is [broken already|http://www.schneier.com/blog/archives/2009/01/biometrics.html].
+
+Things to do:
 
     * find a way of reducing/connecting/removing islands
     * add some real phones to the openscad file
+
+How to make a fingerprint case:
 
 * install/update libfprint. These instructions work for ubuntu 12.10 (from https://launchpad.net/~fingerprint/+archive/fprint)
 
